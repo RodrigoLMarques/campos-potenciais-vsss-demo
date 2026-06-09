@@ -9,7 +9,7 @@ O robô navega de forma reativa (SENSE-ACT): a cada passo lê as posições e se
 ## Dependências
 
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Como executar
